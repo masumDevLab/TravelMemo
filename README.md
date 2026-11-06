@@ -4,7 +4,7 @@ TravelMemo is a polished, local-first travel journal for documenting memories, d
 
 ## Screenshot
 
-![TravelMemo dashboard](./docs/images/travelmemo-dashboard.svg)
+![TravelMemo dashboard](./docs/images/travelmemo-dashboard.png)
 
 ## Overview
 
